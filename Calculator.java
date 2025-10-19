@@ -31,5 +31,6 @@ public class Calculator {
         System.out.println("Invalid operator!");
         break;
     }
+    System.out.println("Calculator Completed");
   }
 }
